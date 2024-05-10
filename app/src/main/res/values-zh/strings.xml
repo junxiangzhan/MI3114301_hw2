@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">景點介紹</string>
+    <string name="taipei101">臺北 101</string>
+    <string name="CITIC_tower">北京中信大廈</string>
+    <string name="tianjin_CTF_finance_centre">天津周大福金融中心</string>
+    <string name="guangzhou_CTF_finance_centre">廣州周大福金融中心</string>
+    <string name="one_world_trade_center">世界貿易中心一號大樓</string>
+    <string name="lotte_world_tower">樂天世界塔</string>
+    <string name="ping_an_finance_center">平安國際金融中心</string>
+    <string name="the_clock_towers">麥加皇家鐘塔飯店</string>
+    <string name="shanghai_tower">上海中心大廈</string>
+    <string name="merdeka_118">吉隆坡 118</string>
+    <string name="burj_khalifa">哈里發塔</string>
+    <string name="shanghai_world_financial_center">上海環球金融中心</string>
+    <string name="united_arab_emirates">阿拉伯聯合大公國</string>
+    <string name="malaysia">馬來西亞</string>
+    <string name="mainland_china">中國大陸地區</string>
+    <string name="saudi_arabia">沙烏地阿拉伯</string>
+    <string name="south_korea">韓國</string>
+    <string name="united_states_of_america">美國</string>
+    <string name="taiwan_area_of_the_republic_of_china">中國臺灣地區</string>
+    <string name="navigate_back">回到上一頁</string>
+</resources>

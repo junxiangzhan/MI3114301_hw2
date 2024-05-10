@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Landmark Intro</string>
+    <string name="taipei101">Tapiei 101</string>
+    <string name="CITIC_tower">CITIC Tower</string>
+    <string name="tianjin_CTF_finance_centre">Tianjin CTF Finance Centre</string>
+    <string name="guangzhou_CTF_finance_centre">Guangzhou CTF Finance Centre</string>
+    <string name="one_world_trade_center">One World Trade Center</string>
+    <string name="lotte_world_tower">Lotte World Tower</string>
+    <string name="ping_an_finance_center">Ping An Finance Center</string>
+    <string name="the_clock_towers">The Clock Towers</string>
+    <string name="shanghai_tower">Shanghai Tower</string>
+    <string name="merdeka_118">Merdeka 118</string>
+    <string name="burj_khalifa">Burj Khalifa</string>
+    <string name="shanghai_world_financial_center">Shanghai World Financial Center</string>
+    <string name="united_arab_emirates">United Arab Emirates</string>
+    <string name="malaysia">Malaysia</string>
+    <string name="mainland_china">China</string>
+    <string name="saudi_arabia">Saudi Arabia</string>
+    <string name="south_korea">South Korea</string>
+    <string name="united_states_of_america">United States of America</string>
+    <string name="taiwan_area_of_the_republic_of_china">Taiwan</string>
+    <string name="navigate_back">Back to landmark list</string>
+</resources>
